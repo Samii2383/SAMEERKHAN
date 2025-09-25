@@ -17,6 +17,6 @@
 ➡️ React Notes App (CRUD, Firebase Auth, Dark Mode)  
 ➡️ Next.js Blog Platform (Markdown, SEO, Tailwind CSS)  
 ➡️ [Open Source Contributions]
-https://github.com/vercel/next.js/pull/84229
-https://github.com/freeCodeCamp/freeCodeCamp/pull/62362
+    https://github.com/vercel/next.js/pull/84229
+    https://github.com/freeCodeCamp/freeCodeCamp/pull/62362
 
