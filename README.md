@@ -16,4 +16,6 @@
 ## 📌 Pinned Projects
 ➡️ React Notes App (CRUD, Firebase Auth, Dark Mode)  
 ➡️ Next.js Blog Platform (Markdown, SEO, Tailwind CSS)  
-➡️ [Open Source Contributions](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3Asameerkhan47149)  
+➡️ [Open Source Contributions]
+https://github.com/vercel/next.js/pull/84229
+
