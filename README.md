@@ -19,7 +19,7 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 ### **1. Note-App** 📝
 - **Tech Stack:** React, JavaScript, CSS  
 - **Description:** Modern note-taking app with CRUD features and dark mode support.  
-- **Live Demo:** [ http://localhost:5173/](#)  
+- **Live Demo:** (https://yes-bp8asb4ye-sameerkhan47149-8480s-projects.vercel.app)
 - **Repo:** [GitHub](https://github.com/Samii2383/Note-App)
 
 ### **2. Open Source PRs** 🌐
