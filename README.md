@@ -19,7 +19,7 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 ### **1. Note-App** 📝
 - **Tech Stack:** React, JavaScript, CSS  
 - **Description:** Modern note-taking app with CRUD features and dark mode support.  
-- **Live Demo:** [Click Here](#)  
+- **Live Demo:** [ http://localhost:5173/](#)  
 - **Repo:** [GitHub](https://github.com/Samii2383/Note-App)
 
 ### **2. Open Source PRs** 🌐
@@ -46,6 +46,4 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 
 > “Good code is its own best documentation.” – Steve McConnell
 
----
 
-> “Good code is its own best documentation.” – Steve McConnell
