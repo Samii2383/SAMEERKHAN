@@ -27,6 +27,9 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 - **LinkedIn:** [linkedin.com/in/sameer-khan-312715235](https://www.linkedin.com/in/sameer-khan-312715235)  
 - **GitHub:** [github.com/Samii2383](https://github.com/Samii2383)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samii2383&show_icons=true&theme=radical)
+
+
 ---
 
 > “Good code is its own best documentation.” – Steve McConnell
