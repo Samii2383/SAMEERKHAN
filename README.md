@@ -34,7 +34,7 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 - **Live Demo:** [Notes-App/vercel](https://yes-bp8asb4ye-sameerkhan47149-8480s-projects.vercel.app)
 - **Repo:** [GitHub](https://github.com/Samii2383/Note-App)
 
-### **2. Open Source PRs** 🌐
+### **3. Open Source PRs** 🌐
 - **Tech Stack:** React, NextJS  
 - **Description:** Contributions to popular repos demonstrating collaboration and problem-solving.  
 - **PRs:** [View My Pull Requests](https://github.com/Samii2383?tab=pulls)
