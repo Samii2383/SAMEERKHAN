@@ -16,10 +16,22 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 
 ## 📂 Key Projects
 
-### **1. Note-App** 📝
+### **1. AI Interview Assistant 🤖
+- **Tech Stack:** React, Redux Toolkit, Ant Design
+- **Description:** Comprehensive React app for automated interviews with resume parsing, AI-         powered question generation, timers, and score tracking.
+- **Live Demo:** [ai-interview-assistant/vercel](https://ai-interview-assistant-lyart-tau.vercel.app/)
+- **Repo:** [ai-interview-assistant](https://github.com/Samii2383/ai-interview-assistant)
+- **Highlights:**
+- **Interviewee & Interviewer tabs with full functionality
+- **Timed interview with auto-submit
+- **Session persistence with Redux + redux-persist
+- **Responsive UI with Ant Design
+- **AI simulation scoring and candidate feedback
+  
+### **2. Note-App** 📝
 - **Tech Stack:** React, JavaScript, CSS  
 - **Description:** Modern note-taking app with CRUD features and dark mode support.  
-- **Live Demo:** (https://yes-bp8asb4ye-sameerkhan47149-8480s-projects.vercel.app)
+- **Live Demo:** [Notes-App/vercel](https://yes-bp8asb4ye-sameerkhan47149-8480s-projects.vercel.app)
 - **Repo:** [GitHub](https://github.com/Samii2383/Note-App)
 
 ### **2. Open Source PRs** 🌐
