@@ -16,7 +16,7 @@ Aspiring **React Engineer** | JavaScript | NextJS | Open Source Contributor
 
 ## 📂 Key Projects
 
-### **1. AI Interview Assistant 🤖
+### 1. AI Interview Assistant 🤖
 - **Tech Stack:** React, Redux Toolkit, Ant Design
 - **Description:** Comprehensive React app for automated interviews with resume parsing, AI-         powered question generation, timers, and score tracking.
 - **Live Demo:** [ai-interview-assistant/vercel](https://ai-interview-assistant-lyart-tau.vercel.app/)
